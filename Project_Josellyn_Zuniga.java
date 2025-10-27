@@ -1,5 +1,5 @@
 // Project_Josellyn_Zuniga.java
-// Part 2 – Insurance Policy Demo
+// Part 2 – Insurance Policy 
 // Name: Josellyn Zuniga
 
 import java.io.File;
