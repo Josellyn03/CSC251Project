@@ -24,7 +24,6 @@ public class PolicyHolder {
     }
 
     /**
-     * Copy constructor (required for Chapter 8 security).
      * Creates a copy of an existing PolicyHolder object.
      */
     public PolicyHolder(PolicyHolder other) {
